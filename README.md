@@ -1,6 +1,6 @@
 # 🎮 Project: Self-Learning Autonomous AI Framework for Video Games
 ### Developed by: Ivan Reyes
-### Category: Machine Learning, Computer Vision, and Data Science (STEM Fest 2026 Feasibility Study)
+### Category: Machine Learning, Computer Vision, and Data Science (STEM Fest 2026 Lisa Academy)
 
 ---
 
